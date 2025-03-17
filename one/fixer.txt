@@ -1,1 +1,3 @@
-this is a fixer file
+this is a fixer file.
+
+one more bug is added.
