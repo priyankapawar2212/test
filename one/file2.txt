@@ -1,5 +1,9 @@
 this is a file two.
 
+<<<<<<< HEAD
 add more content
 
 add 2nd content
+=======
+add one more content 
+>>>>>>> bug-fix
